@@ -6,7 +6,7 @@ import "../../styles/Gallery.css";
 const galleryData = {
     street: ["street/street1.jpg", "street/street2.jpg","street/street3.jpg","street/street4.jpg","street/street5.jpg","street/street6.jpg","street/street7.jpg","street/street8.jpg","street/street9.jpg"],
     portraits: ["portrait/portrait1.jpg", "portrait/portrait2.jpg", "portrait/portrait3.jpg","portrait/portrait4.jpg","portrait/portrait5.jpg","portrait/portrait6.jpg","portrait/portrait7.jpg"],
-    city: ["city/city1.jpg", "city/city2.jpg","city/city3.jpg", "city/city4.jpg"],
+    city: ["city/city1.jpg", "city/city2.jpg","city/city3.jpg", "city/city4.jpg","city/city5.jpg","city/city6.jpg"],
     landscape: ["landscape/landscape1.jpg", "landscape/landscape2.jpg","landscape/landscape3.jpg","landscape/landscape4.jpg","landscape/landscape5.jpg","landscape/landscape6.jpg"],
     animal: []
 };
