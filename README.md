@@ -1,3 +1,25 @@
+# My_Photo_Site
+
+**My_Photo_Site** is a personal photography showcase built with React, designed with a minimalist dark-themed UI. It displays categories including street, portrait, city, and landscape photography, providing a smooth and responsive browsing experience.
+
+## 🚀 Live Demo  
+🔗 [zidiyao.com](https://zidiyao.com/)
+
+## 📷 Features  
+- 🖼️ **Photography Showcase** – Displays photos in different categories.  
+- 🎨 **Dark-Themed Design** – A clean and modern UI with a dark aesthetic.  
+- 🔄 **Smooth Navigation** – Built with React Router for seamless page transitions.  
+- 📱 **Responsive Layout** – Optimized for desktop and mobile viewing.  
+- 🛠️ **Fully Frontend** – No backend required in the current version.  
+
+## 🛠 Tech Stack  
+- **React** – Core framework for building UI components.  
+- **CSS (Non-Tailwind)** – Custom styling without Tailwind due to installation issues.  
+- **Vite/Webpack** – Fast and optimized build tooling.  
+
+## 📥 Installation & Setup  
+To run the project locally, follow these steps:  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,32 +61,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
