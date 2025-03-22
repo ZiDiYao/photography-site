@@ -18,6 +18,7 @@ function App() {
                 <li><Link to="/gallery/portraits">Portraits</Link></li>
                 <li><Link to="/gallery/city">City</Link></li>
                 <li><Link to="/gallery/landscape">Landscape</Link></li>
+                <li><Link to="/gallery/animal">Animal</Link></li>
                 <li><Link to="/about">About</Link></li>
                 <li><Link to="/contact">Contact</Link></li>
               </ul>

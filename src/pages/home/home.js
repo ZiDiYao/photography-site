@@ -7,7 +7,7 @@ const categories = [
     { name: "Portraits", link: "/gallery/portraits", image: "/images/portrait/portrait1.jpg" },
     { name: "City", link: "/gallery/city", image: "/images/city/city1.jpg" },
     { name: "Landscape", link: "/gallery/landscape", image: "/images/landscape/landscape3.jpg" },
-    { name: "Animal", link: "/gallery/landscape", image: "/images/Animal/animal1.jpg" }
+    { name: "Animal", link: "/gallery/animal", image: "/images/animal/animal1.jpg" }
 ];
 
 function Home() {

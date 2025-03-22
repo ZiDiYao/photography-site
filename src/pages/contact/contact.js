@@ -8,6 +8,7 @@ function Contact() {
             <h2>Contact Me</h2>
             <p>Email: zidiyaocanada@outlook.com</p>
             <p>Email: yaoz25@mcmaster.ca</p>
+            <p> More features will be added later</p>
         </div>
     );
 }

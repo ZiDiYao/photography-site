@@ -7,6 +7,8 @@ function About() {
             <h2>About Me</h2>
             <p>I'm a passionate photographer specializing in street, portrait, city, and landscape photography.</p>
             <p>Contact me at: zidiyaocanada@outlook.com or yaoz25@mcmaster.ca</p>
+            <p> More features will be added later</p>
+
         </div>
     );
 }
