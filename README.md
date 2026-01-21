@@ -5,6 +5,9 @@
 ## 🚀 Live Demo  
 🔗 [zidiyao.com](https://zidiyao.com/)
 
+![Demo Screenshot](./Screenshot%202026-01-20%20142321.png)
+
+
 ## 📷 Features  
 - 🖼️ **Photography Showcase** – Displays photos in different categories.  
 - 🎨 **Dark-Themed Design** – A clean and modern UI with a dark aesthetic.  
