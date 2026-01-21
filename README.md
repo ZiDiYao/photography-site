@@ -6,8 +6,7 @@
 🔗 [zidiyao.com](https://zidiyao.com/)
 
 ![Demo Screenshot](./Screenshot%202026-01-20%20142321.png)
-![Demo Screenshot01](./Screenshot 2026-01-21 144234.png)
-
+![Demo Screenshot01](<./Screenshot 2026-01-21 144234.png>)
 
 ##  Features  
 - **Photography Showcase** – Displays photos in different categories.  
