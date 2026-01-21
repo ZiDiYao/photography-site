@@ -8,19 +8,19 @@
 ![Demo Screenshot](./Screenshot%202026-01-20%20142321.png)
 
 
-## 📷 Features  
-- 🖼️ **Photography Showcase** – Displays photos in different categories.  
-- 🎨 **Dark-Themed Design** – A clean and modern UI with a dark aesthetic.  
-- 🔄 **Smooth Navigation** – Built with React Router for seamless page transitions.  
-- 📱 **Responsive Layout** – Optimized for desktop and mobile viewing.  
-- 🛠️ **Fully Frontend** – No backend required in the current version.  
+##  Features  
+- **Photography Showcase** – Displays photos in different categories.  
+- **Dark-Themed Design** – A clean and modern UI with a dark aesthetic.  
+- **Smooth Navigation** – Built with React Router for seamless page transitions.  
+- **Responsive Layout** – Optimized for desktop and mobile viewing.  
+- **Fully Frontend** – No backend required in the current version.  
 
-## 🛠 Tech Stack  
+## Tech Stack  
 - **React** – Core framework for building UI components.  
 - **CSS (Non-Tailwind)** – Custom styling without Tailwind due to installation issues.  
 - **Vite/Webpack** – Fast and optimized build tooling.  
 
-## 📥 Installation & Setup  
+## Installation & Setup  
 To run the project locally, follow these steps:  
 
 # Getting Started with Create React App
